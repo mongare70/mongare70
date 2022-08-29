@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Hillary Mongare</h1>
 <h3 align="center">A Full-Stack Developer ready to turn your ideas into beautiful & functional experiences.</h3>
-<img align="right" alt="Hillary coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/media/7988b21c14bfe59f6b0edb72fccfac28.gif")
+<img align="right" alt="Hillary coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/media/7988b21c14bfe59f6b0edb72fccfac28.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mongare70&label=Profile%20views&color=0e75b6&style=flat" alt="mongare70" /> </p>
 
