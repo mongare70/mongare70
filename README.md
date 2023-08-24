@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@hillarymongare70](https://medium.com/@hillarymongare70)
 
-- 💬 Ask me about **React.js, Next.js, and Python3**
+- 💬 Ask me about **React.js, Next.js, Angular, Node.js, and Python3**
 
 - 📫 How to reach me **hillarymongare70@gmail.com**
 
