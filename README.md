@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mongare70&label=Profile%20views&color=0e75b6&style=flat" alt="mongare70" /> </p>
 
-- 🌱 I’m currently studying **MSc. Data Science**
+- 🌱 I’m currently pursuing a **Master's in Data Science**
 
 - 👨‍💻 All of my projects are available at [https://hillarymongare.co.ke/](https://hillarymongare.co.ke/)
 
