@@ -6,11 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mongare70&label=Profile%20views&color=0e75b6&style=flat" alt="mongare70" /> </p>
 
-<p align="left"> <a href="https://twitter.com/hillary_mongare" target="blank"><img src="https://img.shields.io/twitter/follow/hillary_mongare?logo=twitter&style=for-the-badge" alt="hillary_mongare" /></a> </p>
+- 🌱 I’m currently studying **MSc. Data Science**
 
-- 🌱 I’m currently learning **Google Cloud Platform, Azure, and Amazon Web Services**
-
-- 👨‍💻 All of my projects are available at [https://hillary-mongare.vercel.app/](https://hillary-mongare.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://hillarymongare.co.ke/](https://hillarymongare.co.ke/)
 
 - 📝 I regularly write articles on [https://medium.com/@hillarymongare70](https://medium.com/@hillarymongare70)
 
