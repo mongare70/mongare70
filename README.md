@@ -1,7 +1,7 @@
 [![MasterHead](http://tmokk5.co.za/images/Web%20Development0.gif)](https://hillary-mongare.vercel.app/)
 
 <h1 align="center">Hi 👋, I'm Hillary Mongare</h1>
-<h3 align="center">A Full-Stack Developer ready to turn your ideas into beautiful & functional experiences.</h3>
+<h3 align="center">A Software Developer and Aspiring Data Scientist that's eager to contribute to forward-thinking teams where I can apply my technical expertise and problem-solving skills to create impactful solutions that add value to businesses and their customers.</h3>
 <img align="right" alt="Hillary coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/media/7988b21c14bfe59f6b0edb72fccfac28.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mongare70&label=Profile%20views&color=0e75b6&style=flat" alt="mongare70" /> </p>
@@ -9,10 +9,6 @@
 - 🌱 I’m currently pursuing a **Master's in Data Science**
 
 - 👨‍💻 All of my projects are available at [https://hillarymongare.vercel.app/](https://hillarymongare.vercel.app/)
-
-- 📝 I regularly write articles on [https://medium.com/@hillarymongare70](https://medium.com/@hillarymongare70)
-
-- 💬 Ask me about **React.js, Next.js, Angular, Node.js, and Python3**
 
 - 📫 How to reach me **hillarymongare70@gmail.com**
 
