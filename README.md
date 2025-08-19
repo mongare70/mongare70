@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mongare70&label=Profile%20views&color=0e75b6&style=flat" alt="mongare70" /> </p>
 
-- 🌱 I’m currently looking for opportunities that would expand my skillset**
+- 🌱 I’m currently looking for opportunities that would help build my skillset
 
 - 👨‍💻 All of my projects are available at [https://hillarymongare.vercel.app/](https://hillarymongare.vercel.app/)
 
